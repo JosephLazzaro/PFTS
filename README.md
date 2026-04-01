@@ -109,4 +109,4 @@ The catalyst data (`CatData_final.csv`) is extracted from the [Open Catalyst Exp
 
 ## Acknowledgements
 
-This work was completed while Joseph Lazzaro was an intern at MediaTek Research. The MR-LPF and MaxMinLCB baseline implementations are adapted from the codebase of [Kayal et al. (2025)](https://arxiv.org/abs/2402.01316).
+This work was completed while Joseph Lazzaro was an intern at MediaTek Research. The MR-LPF and MaxMinLCB baseline implementations are adapted from the codebase of [Kayal et al. (2025)](https://arxiv.org/abs/2505.23673v1).
